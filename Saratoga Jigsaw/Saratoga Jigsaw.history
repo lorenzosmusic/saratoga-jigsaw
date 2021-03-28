@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1616903204" tv-usec="134019" name="move notes">
-    <NoteDiffCommand midi-source="1270">
-      <ChangedNotes/>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="44" left-frame="117125" y-origin="0">
-        <Selection>
-          <MIDINotes region-id="1272">
-            <note note-id="151"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="44" left-frame="117125" y-origin="0">
-        <Selection>
-          <MIDINotes region-id="1272">
-            <note note-id="151"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
   <UndoTransaction tv-sec="1616903206" tv-usec="91388" name="move notes">
     <NoteDiffCommand midi-source="1270">
       <ChangedNotes/>
@@ -376,19 +353,6 @@
     <StatefulDiffCommand obj-id="1225" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Add id="1513"/>
-          <Add id="1516"/>
-          <Add id="1519"/>
-          <Add id="1522"/>
-          <Add id="1525"/>
-          <Add id="1528"/>
-          <Add id="1531"/>
-          <Add id="1534"/>
-          <Add id="1537"/>
-          <Add id="1540"/>
-          <Add id="1543"/>
-          <Add id="1546"/>
-          <Add id="1549"/>
           <Add id="1417"/>
           <Add id="1420"/>
           <Add id="1423"/>
@@ -421,6 +385,19 @@
           <Add id="1504"/>
           <Add id="1507"/>
           <Add id="1510"/>
+          <Add id="1513"/>
+          <Add id="1516"/>
+          <Add id="1519"/>
+          <Add id="1522"/>
+          <Add id="1525"/>
+          <Add id="1528"/>
+          <Add id="1531"/>
+          <Add id="1534"/>
+          <Add id="1537"/>
+          <Add id="1540"/>
+          <Add id="1543"/>
+          <Add id="1546"/>
+          <Add id="1549"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -552,6 +529,48 @@
       </SelectionMemento>
       <SelectionMemento mouse-mode="MouseObject" zoom="457" left-frame="8541409" y-origin="0">
         <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1616911498" tv-usec="962549" name="transpose">
+    <NoteDiffCommand midi-source="1270">
+      <ChangedNotes>
+        <Change property="NoteNumber" old="74" new="62" id="74"/>
+        <Change property="NoteNumber" old="67" new="55" id="76"/>
+        <Change property="NoteNumber" old="70" new="58" id="75"/>
+        <Change property="NoteNumber" old="69" new="57" id="151"/>
+        <Change property="NoteNumber" old="65" new="53" id="152"/>
+        <Change property="NoteNumber" old="74" new="62" id="153"/>
+        <Change property="NoteNumber" old="74" new="62" id="277"/>
+        <Change property="NoteNumber" old="67" new="55" id="279"/>
+        <Change property="NoteNumber" old="70" new="58" id="278"/>
+        <Change property="NoteNumber" old="74" new="62" id="280"/>
+        <Change property="NoteNumber" old="65" new="53" id="282"/>
+        <Change property="NoteNumber" old="69" new="57" id="281"/>
+        <Change property="NoteNumber" old="69" new="57" id="1018"/>
+        <Change property="NoteNumber" old="72" new="60" id="1020"/>
+        <Change property="NoteNumber" old="65" new="53" id="1019"/>
+        <Change property="NoteNumber" old="74" new="62" id="1021"/>
+        <Change property="NoteNumber" old="70" new="58" id="1022"/>
+        <Change property="NoteNumber" old="67" new="55" id="1023"/>
+      </ChangedNotes>
+      <AddedNotes/>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1440" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="1272"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1440" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="1272"/>
+          </Regions>
+        </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
