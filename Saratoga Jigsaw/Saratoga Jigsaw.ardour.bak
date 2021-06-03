@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="Saratoga Jigsaw" sample-rate="44100" end-is-free="0" id-counter="12955" name-counter="1" event-counter="190592" vca-counter="1">
+<Session version="3002" name="Saratoga Jigsaw" sample-rate="44100" end-is-free="0" id-counter="14163" name-counter="1" event-counter="231580" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3" modified-with="Ardour 1:5.12.0-3ubuntu4"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -134,6 +134,7 @@
     <Region name="Audio-7.35" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5292000" length="3765152" position="5484436" beat="228" sync-position="5292000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="5986" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2"/>
     <Region name="Audio-7.37" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6542837" length="2514315" position="6735273" beat="280" sync-position="6542837" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="6013" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2"/>
     <Region name="Audio-7.39" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7216364" length="1840788" position="7408800" beat="308" sync-position="7216364" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="6040" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2"/>
+    <Region name="Audio-7.41" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="8010164" length="1046988" position="7775632" beat="323.25" sync-position="7986109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="6067" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2"/>
     <Region name="session_Audio 1%L-L.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2213018" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6089" type="audio" first-edit="nothing" source-0="3864" master-source-0="3864" channels="1"/>
     <Region name="session_Audio 1%L-L.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2213018" length="6590309" position="2213018" beat="92" sync-position="2213018" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6098" type="audio" first-edit="nothing" source-0="3864" master-source-0="3864" channels="1"/>
     <Region name="session_Audio 1%R-R.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2213018" length="6590309" position="2213018" beat="92" sync-position="2213018" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6125" type="audio" first-edit="nothing" source-0="3866" master-source-0="3866" channels="1"/>
@@ -332,6 +333,7 @@
         </Source>
       </NestedSource>
     </Region>
+    <Region name="session_Audio 1%L-L compound-2.1 (2)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="48109" position="5827214" beat="242.25" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7069" type="audio" first-edit="nothing" source-0="7059" master-source-0="7059" channels="1"/>
     <Region name="Audio-7.42" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2213019" length="481091" position="2188964" beat="91" sync-position="2213019" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="7247" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2"/>
     <Region name="Audio-7.43" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2694110" length="577309" position="2670055" beat="111" sync-position="2694110" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="7256" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2"/>
     <Region name="Audio-7.46" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2213019" length="481091" position="2188964" beat="91" sync-position="2213019" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="7305" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2"/>
@@ -343,6 +345,8 @@
     <Region name="Audio-7.58" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3993055" length="72164" position="4426036" beat="184" sync-position="3993055" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="11690" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2"/>
     <Region name="Audio-7.59" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4065219" length="745690" position="4498200" beat="187" sync-position="4065219" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="11699" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2"/>
     <Region name="Audio-7.63" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3704401" length="288654" position="4281709" beat="177.9999962207105" sync-position="3704401" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="11937" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2"/>
+    <Region name="session_Audio 1%L-L compound-2.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="667511" position="7889891" beat="328" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="13142" type="audio" first-edit="nothing" source-0="7059" master-source-0="7059" channels="1"/>
+    <Region name="session_Audio 1%L-L compound-2.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="667511" position="8563418" beat="356" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="13490" type="audio" first-edit="nothing" source-0="7059" master-source-0="7059" channels="1"/>
   </Regions>
   <CompoundAssociations>
     <CompoundAssociation copy="7041" original="6710"/>
@@ -354,7 +358,7 @@
   <Selection/>
   <Locations>
     <Location id="254" name="session" start="0" end="8797950" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
-    <Location id="4179" name="Loop" start="0" end="8797950" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
+    <Location id="4179" name="Loop" start="5051455" end="5821201" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
   </Locations>
   <Bundles/>
   <VCAManager/>
@@ -663,8 +667,8 @@
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
-      <Controllable name="mute" id="1132" flags="Toggle,RealTime" value="1"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="1132" flags="Toggle,RealTime" value="0"/>
       <Controllable name="phase" id="1134" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="1129" interpolation-style="Discrete" state="Off"/>
@@ -743,8 +747,8 @@
         </Port>
         <Port type="midi" name="MIDI/midi_out 1"/>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
-      <Controllable name="mute" id="1193" flags="Toggle,RealTime" value="1"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="1193" flags="Toggle,RealTime" value="0"/>
       <Controllable name="phase" id="1195" flags="Toggle" value="0" phase-invert=""/>
       <Automation>
         <AutomationList automation-id="solo" id="1190" interpolation-style="Discrete" state="Off"/>
@@ -846,8 +850,8 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
-      <Controllable name="mute" id="3896" flags="Toggle,RealTime" value="1"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="3896" flags="Toggle,RealTime" value="0"/>
       <Controllable name="phase" id="3898" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="3893" interpolation-style="Discrete" state="Off"/>
@@ -860,7 +864,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
         <AutomationList automation-id="monitor" id="3925" interpolation-style="Discrete" state="Off"/>
       </Automation>
       <Pannable>
-        <Controllable name="pan-azimuth" id="3905" flags="" value="0.5"/>
+        <Controllable name="pan-azimuth" id="3905" flags="" value="0.27469135802469097"/>
         <Controllable name="pan-width" id="3909" flags="" value="0"/>
         <Controllable name="pan-elevation" id="3907" flags="" value="0"/>
         <Controllable name="pan-frontback" id="3911" flags="" value="0"/>
@@ -883,13 +887,133 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
         <Automation>
           <AutomationList automation-id="gain" id="3889" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="3890" flags="GainLike" value="1"/>
+        <Controllable name="gaincontrol" id="3890" flags="GainLike" value="0.36138108372688293"/>
+      </Processor>
+      <Processor id="13764" name="Calf Phaser" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Phaser" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-4" id="13765" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="13767" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="13769" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-7" id="13771" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-8" id="13773" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-9" id="13775" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-10" id="13777" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-11" id="13779" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-12" id="13781" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-13" id="13783" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-14" id="13785" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-15" id="13787" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-24" id="13789" interpolation-style="Discrete" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0">
+          <Port symbol="base_freq" value="1000"/>
+          <Port symbol="mod_depth" value="4000"/>
+          <Port symbol="mod_rate" value="0.10000000149011612"/>
+          <Port symbol="feedback" value="0.5"/>
+          <Port symbol="stages" value="6"/>
+          <Port symbol="stereo" value="180"/>
+          <Port symbol="reset" value="0"/>
+          <Port symbol="amount" value="0.5"/>
+          <Port symbol="dry" value="1"/>
+          <Port symbol="on" value="1"/>
+          <Port symbol="level_in" value="1"/>
+          <Port symbol="level_out" value="1"/>
+          <Port symbol="lfo" value="1"/>
+        </lv2>
+        <Controllable name="Center Freq" id="13766" flags="" value="1000" parameter="4" symbol="base_freq"/>
+        <Controllable name="Mod depth" id="13768" flags="" value="4000" parameter="5" symbol="mod_depth"/>
+        <Controllable name="Mod rate" id="13770" flags="" value="0.10000000149011612" parameter="6" symbol="mod_rate"/>
+        <Controllable name="Feedback" id="13772" flags="" value="0.5" parameter="7" symbol="feedback"/>
+        <Controllable name="# Stages" id="13774" flags="" value="6" parameter="8" symbol="stages"/>
+        <Controllable name="Stereo phase" id="13776" flags="" value="180" parameter="9" symbol="stereo"/>
+        <Controllable name="Reset" id="13778" flags="Toggle" value="0" parameter="10" symbol="reset"/>
+        <Controllable name="Amount" id="13780" flags="" value="0.5" parameter="11" symbol="amount"/>
+        <Controllable name="Dry Amount" id="13782" flags="" value="1" parameter="12" symbol="dry"/>
+        <Controllable name="Active" id="13784" flags="Toggle" value="1" parameter="13" symbol="on"/>
+        <Controllable name="Input Gain" id="13786" flags="" value="1" parameter="14" symbol="level_in"/>
+        <Controllable name="Output Gain" id="13788" flags="" value="1" parameter="15" symbol="level_out"/>
+        <Controllable name="LFO" id="13790" flags="Toggle" value="1" parameter="24" symbol="lfo"/>
+      </Processor>
+      <Processor id="13712" name="Calf Compressor" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Compressor" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-4" id="13713" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="13715" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-10" id="13717" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-11" id="13719" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-12" id="13721" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-13" id="13723" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-14" id="13725" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-15" id="13727" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-16" id="13729" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-17" id="13731" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-19" id="13733" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0">
+          <Port symbol="bypass" value="0"/>
+          <Port symbol="level_in" value="1"/>
+          <Port symbol="threshold" value="0.125"/>
+          <Port symbol="ratio" value="2"/>
+          <Port symbol="attack" value="20"/>
+          <Port symbol="release" value="250"/>
+          <Port symbol="makeup" value="1"/>
+          <Port symbol="knee" value="2.8284299373626709"/>
+          <Port symbol="detection" value="0"/>
+          <Port symbol="stereo_link" value="0"/>
+          <Port symbol="mix" value="1"/>
+        </lv2>
+        <Controllable name="Bypass" id="13714" flags="Toggle" value="0" parameter="4" symbol="bypass"/>
+        <Controllable name="Input" id="13716" flags="" value="1" parameter="5" symbol="level_in"/>
+        <Controllable name="Threshold" id="13718" flags="" value="0.125" parameter="10" symbol="threshold"/>
+        <Controllable name="Ratio" id="13720" flags="" value="2" parameter="11" symbol="ratio"/>
+        <Controllable name="Attack" id="13722" flags="" value="20" parameter="12" symbol="attack"/>
+        <Controllable name="Release" id="13724" flags="" value="250" parameter="13" symbol="release"/>
+        <Controllable name="Makeup Gain" id="13726" flags="" value="1" parameter="14" symbol="makeup"/>
+        <Controllable name="Knee" id="13728" flags="" value="2.8284299373626709" parameter="15" symbol="knee"/>
+        <Controllable name="Detection" id="13730" flags="" value="0" parameter="16" symbol="detection"/>
+        <Controllable name="Stereo Link" id="13732" flags="" value="0" parameter="17" symbol="stereo_link"/>
+        <Controllable name="Mix" id="13734" flags="" value="1" parameter="19" symbol="mix"/>
       </Processor>
       <Processor id="3918" name="meter-Audio  1" active="1" user-latency="0" type="meter"/>
       <Processor id="3919" name="Guit 2" active="1" user-latency="0" own-input="1" own-output="0" output="Guit 2" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
-          <Controllable name="pan-azimuth" id="3905" flags="" value="0.5"/>
+          <Controllable name="pan-azimuth" id="3905" flags="" value="0.27469135802469097"/>
           <Controllable name="pan-width" id="3909" flags="" value="0"/>
           <Controllable name="pan-elevation" id="3907" flags="" value="0"/>
           <Controllable name="pan-frontback" id="3911" flags="" value="0"/>
@@ -1209,7 +1333,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
       <Region name="MIDI-1.44" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="192436" position="8563402" beat="355.99932728647019" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="44" start-beats="0" length-beats="8" id="1546" type="midi" first-edit="nothing" source-0="1270" master-source-0="1270"/>
     </Playlist>
     <Playlist id="3928" name="session_Audio 1%L-L" type="audio" orig-track-id="3886" shared-with-ids="" frozen="0" combine-ops="2">
-      <Region name="session_Audio 1%L-L.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2213018" length="962182" position="2213018" beat="92" sync-position="2213018" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6442" type="audio" first-edit="nothing" source-0="3864" master-source-0="3864" channels="1">
+      <Region name="session_Audio 1%L-L.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2213018" length="962182" position="3752509" beat="156" sync-position="2213018" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.1220184564590454" id="6442" type="audio" first-edit="nothing" source-0="3864" master-source-0="3864" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="6443" interpolation-style="Curved" state="Off">
@@ -1240,7 +1364,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="session_Audio 1%L-L compound-2.3 (2)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="769746" position="5147673" beat="214" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7158" type="audio" first-edit="nothing" source-0="7059" master-source-0="7059" channels="1">
+      <Region name="session_Audio 1%L-L compound-2.3 (2)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="769746" position="5051455" beat="210" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7158" type="audio" first-edit="nothing" source-0="7059" master-source-0="7059" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="7159" interpolation-style="Curved" state="Off">
@@ -1271,31 +1395,124 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="session_Audio 1%L-L compound-2.1 (2)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="769746" position="6350400" beat="264" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7069" type="audio" first-edit="nothing" source-0="7059" master-source-0="7059" channels="1">
+      <Region name="session_Audio 1%L-L compound-2.8 (2)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="48109" position="5821200" beat="242" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="13887" type="audio" first-edit="nothing" source-0="7059" master-source-0="7059" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="7070" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="13888" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="7071" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="13889" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="7072" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="13890" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="7073" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="13891" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="session_Audio 1%L-L compound-2.4 (2)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="769746" position="5869309" beat="244" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="13115" type="audio" first-edit="nothing" source-0="7059" master-source-0="7059" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="13116" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="13117" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="13118" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="13119" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="session_Audio 1%L-L compound-2.5 (2)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="769746" position="6639055" beat="276" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="13124" type="audio" first-edit="nothing" source-0="7059" master-source-0="7059" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="13125" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="13126" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="13127" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="13128" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="session_Audio 1%L-L compound-2.6 (2)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="336764" position="7408800" beat="308" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="13133" type="audio" first-edit="nothing" source-0="7059" master-source-0="7059" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="13134" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="13135" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="13136" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="13137" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -1554,7 +1771,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Audio-7.51" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1250836" length="192436" position="2020582" beat="84" sync-position="865964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="8438" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
+      <Region name="Audio-7.51" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1250836" length="192436" position="2020582" beat="84" sync-position="865964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="8438" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="8439" interpolation-style="Curved" state="Off">
@@ -1585,7 +1802,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Audio-7.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2044637" length="144327" position="2213018" beat="92" sync-position="2044637" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="5869" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
+      <Region name="Audio-7.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2044637" length="144327" position="2213018" beat="92" sync-position="2044637" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="5869" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="5870" interpolation-style="Curved" state="Off">
@@ -1616,7 +1833,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Audio-7.54" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2042437" length="96271" position="2309184" beat="95.997823129251714" sync-position="2042437" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="9420" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
+      <Region name="Audio-7.54" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2042437" length="96271" position="2309184" beat="95.997823129251714" sync-position="2042437" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="9420" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="9421" interpolation-style="Curved" state="Off">
@@ -1647,7 +1864,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Audio-7.55" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2044637" length="120273" position="2405455" beat="100" sync-position="2044637" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="10271" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
+      <Region name="Audio-7.55" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2044637" length="120273" position="2405455" beat="100" sync-position="2044637" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="10271" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="10272" interpolation-style="Curved" state="Off">
@@ -1709,7 +1926,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Audio-7.50" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2281024" length="437140" position="2906255" beat="120.81936885865457" sync-position="2213019" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="7879" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
+      <Region name="Audio-7.50" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2281024" length="437140" position="2906255" beat="120.81936885865457" sync-position="2213019" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="7879" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="7880" interpolation-style="Curved" state="Off">
@@ -1771,7 +1988,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Audio-7.60" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3271419" length="432982" position="3704400" beat="154" sync-position="3271419" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="11885" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
+      <Region name="Audio-7.60" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3271419" length="432982" position="3704400" beat="154" sync-position="3271419" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="4.7107043266296387" id="11885" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="11886" interpolation-style="Curved" state="Off">
@@ -1802,7 +2019,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Audio-7.61" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3704401" length="288654" position="4137382" beat="172" sync-position="3704401" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="11894" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
+      <Region name="Audio-7.61" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3704401" length="288654" position="4137382" beat="172" sync-position="3704401" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="4.0491294860839844" id="11894" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="11895" interpolation-style="Curved" state="Off">
@@ -1833,7 +2050,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Audio-7.64" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3704401" length="481091" position="4426036" beat="184" sync-position="3704401" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="11952" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
+      <Region name="Audio-7.64" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3704401" length="426969" position="4426036" beat="184" sync-position="3704401" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.1716408729553223" id="11952" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="11953" interpolation-style="Curved" state="Off">
@@ -1864,7 +2081,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Audio-7.57" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3993055" length="817854" position="4907127" beat="204" sync-position="3993055" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="11672" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
+      <Region name="Audio-7.57" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3993055" length="817854" position="4907127" beat="204" sync-position="3993055" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.1716408729553223" id="11672" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="11673" interpolation-style="Curved" state="Off">
@@ -1957,7 +2174,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Audio-7.38" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6542837" length="877991" position="6927709" beat="288" sync-position="6542837" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="6031" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
+      <Region name="Audio-7.38" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6542837" length="1461314" position="6927709" beat="288" sync-position="6542837" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="6031" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="6032" interpolation-style="Curved" state="Off">
@@ -1988,38 +2205,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Audio-7.41" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="8010164" length="1046988" position="7775632" beat="323.25" sync-position="7986109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="6067" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
-        <Envelope default="yes"/>
-        <FadeIn>
-          <AutomationList automation-id="fadein" id="6068" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </FadeIn>
-        <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="6069" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </InverseFadeIn>
-        <FadeOut>
-          <AutomationList automation-id="fadeout" id="6070" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </FadeOut>
-        <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="6071" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </InverseFadeOut>
-      </Region>
-      <Region name="Audio-7.40" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7613264" length="372845" position="8449159" beat="351.25" sync-position="7216364" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="17" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="6058" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
+      <Region name="Audio-7.40" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7624702" length="379449" position="8304242" beat="345.22547996976567" sync-position="7216364" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="6058" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="6059" interpolation-style="Curved" state="Off">
@@ -2213,6 +2399,10 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
       <Window name="PM-4101-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-4103-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-4104-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-3886-13712" visible="0" x-off="0" y-off="28" x-size="943" y-size="427" custom-ui="1"/>
+      <Window name="PM-13712-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-3886-13764" visible="0" x-off="0" y-off="7" x-size="1020" y-size="468" custom-ui="1"/>
+      <Window name="PM-13764-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="66" visible="1"/>
         <Object id="automation 58" height="66" visible="0"/>
@@ -2253,13 +2443,16 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
         <Object id="automation 1183 12/0/0" height="66" visible="0"/>
         <Object id="automation 1202" height="66" visible="0"/>
         <Object id="automation 1206" height="66" visible="0"/>
-        <Object id="rtav 3886" height="79" visible="1"/>
+        <Object id="rtav 3886" height="111" visible="1"/>
         <Object id="automation 3890" height="86" visible="0"/>
         <Object id="automation 3892" height="86" visible="0"/>
         <Object id="automation 3886 12/0/0" height="86" visible="0"/>
         <Object id="automation 3905" height="86" visible="0"/>
         <Object id="strip 3886" strip-width="Wide" visible="1">
           <Object id="processor 3916"/>
+          <Object id="processor 13712"/>
+          <Object id="processor 13739"/>
+          <Object id="processor 13764"/>
         </Object>
         <Object id="rtav 3964" height="86" visible="1"/>
         <Object id="automation 3968" height="86" visible="0"/>

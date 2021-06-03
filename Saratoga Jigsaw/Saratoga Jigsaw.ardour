@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="Saratoga Jigsaw" sample-rate="44100" end-is-free="0" id-counter="14163" name-counter="1" event-counter="231580" vca-counter="1">
+<Session version="3002" name="Saratoga Jigsaw" sample-rate="44100" end-is-free="0" id-counter="16516" name-counter="1" event-counter="238055" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3" modified-with="Ardour 1:5.12.0-3ubuntu4"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -134,7 +134,7 @@
     <Region name="Audio-7.35" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5292000" length="3765152" position="5484436" beat="228" sync-position="5292000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="5986" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2"/>
     <Region name="Audio-7.37" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6542837" length="2514315" position="6735273" beat="280" sync-position="6542837" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="6013" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2"/>
     <Region name="Audio-7.39" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7216364" length="1840788" position="7408800" beat="308" sync-position="7216364" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="6040" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2"/>
-    <Region name="Audio-7.41" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="8010164" length="1046988" position="7775632" beat="323.25" sync-position="7986109" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="6067" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2"/>
+    <Region name="Audio-7.41" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="8010164" length="1046988" position="7775632" beat="323.25" sync-position="8010164" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="6067" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2"/>
     <Region name="session_Audio 1%L-L.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2213018" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6089" type="audio" first-edit="nothing" source-0="3864" master-source-0="3864" channels="1"/>
     <Region name="session_Audio 1%L-L.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2213018" length="6590309" position="2213018" beat="92" sync-position="2213018" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6098" type="audio" first-edit="nothing" source-0="3864" master-source-0="3864" channels="1"/>
     <Region name="session_Audio 1%R-R.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2213018" length="6590309" position="2213018" beat="92" sync-position="2213018" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6125" type="audio" first-edit="nothing" source-0="3866" master-source-0="3866" channels="1"/>
@@ -148,7 +148,7 @@
     <Region name="session_Audio 1%R-R.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5003345" length="3799982" position="5003345" beat="208" sync-position="5003345" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6233" type="audio" first-edit="nothing" source-0="3866" master-source-0="3866" channels="1"/>
     <Region name="session_Audio 1%L-L.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5003345" length="1443273" position="5003345" beat="208" sync-position="5003345" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6251" type="audio" first-edit="nothing" source-0="3864" master-source-0="3864" channels="1"/>
     <Region name="session_Audio 1%L-L.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6446618" length="2356709" position="6446618" beat="268" sync-position="6446618" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6260" type="audio" first-edit="nothing" source-0="3864" master-source-0="3864" channels="1"/>
-    <Region name="session_Audio 1%L-L.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6470673" length="192437" position="6446618" beat="268" sync-position="6446618" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6278" type="audio" first-edit="nothing" source-0="3864" master-source-0="3864" channels="1"/>
+    <Region name="session_Audio 1%L-L.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6470673" length="192437" position="6446618" beat="268" sync-position="6470673" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6278" type="audio" first-edit="nothing" source-0="3864" master-source-0="3864" channels="1"/>
     <Region name="session_Audio 1%L-L.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6831491" length="1971836" position="6831491" beat="284" sync-position="6831491" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6287" type="audio" first-edit="nothing" source-0="3864" master-source-0="3864" channels="1"/>
     <Region name="session_Audio 1%R-R.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5003345" length="1828146" position="5003345" beat="208" sync-position="5003345" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6305" type="audio" first-edit="nothing" source-0="3866" master-source-0="3866" channels="1"/>
     <Region name="session_Audio 1%R-R.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6831491" length="1971836" position="6831491" beat="284" sync-position="6831491" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6314" type="audio" first-edit="nothing" source-0="3866" master-source-0="3866" channels="1"/>
@@ -349,13 +349,15 @@
     <Region name="session_Audio 1%L-L compound-2.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="667511" position="8563418" beat="356" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="13490" type="audio" first-edit="nothing" source-0="7059" master-source-0="7059" channels="1"/>
   </Regions>
   <CompoundAssociations>
-    <CompoundAssociation copy="7041" original="6710"/>
     <CompoundAssociation copy="6929" original="6278"/>
-    <CompoundAssociation copy="7032" original="6957"/>
-    <CompoundAssociation copy="7050" original="6741"/>
     <CompoundAssociation copy="6938" original="6681"/>
+    <CompoundAssociation copy="7032" original="6957"/>
+    <CompoundAssociation copy="7041" original="6710"/>
+    <CompoundAssociation copy="7050" original="6741"/>
   </CompoundAssociations>
-  <Selection/>
+  <Selection>
+    <StripableAutomationControl stripable="4071" control="0" order="0"/>
+  </Selection>
   <Locations>
     <Location id="254" name="session" start="0" end="8797950" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
     <Location id="4179" name="Loop" start="5051455" end="5821201" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
@@ -864,7 +866,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
         <AutomationList automation-id="monitor" id="3925" interpolation-style="Discrete" state="Off"/>
       </Automation>
       <Pannable>
-        <Controllable name="pan-azimuth" id="3905" flags="" value="0.27469135802469097"/>
+        <Controllable name="pan-azimuth" id="3905" flags="" value="0.27469134330749512"/>
         <Controllable name="pan-width" id="3909" flags="" value="0"/>
         <Controllable name="pan-elevation" id="3907" flags="" value="0"/>
         <Controllable name="pan-frontback" id="3911" flags="" value="0"/>
@@ -887,7 +889,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
         <Automation>
           <AutomationList automation-id="gain" id="3889" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="3890" flags="GainLike" value="0.36138108372688293"/>
+        <Controllable name="gaincontrol" id="3890" flags="GainLike" value="0.3989575207233429"/>
       </Processor>
       <Processor id="13764" name="Calf Phaser" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Phaser" count="1" custom="0">
         <Automation>
@@ -1013,7 +1015,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
       <Processor id="3919" name="Guit 2" active="1" user-latency="0" own-input="1" own-output="0" output="Guit 2" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
-          <Controllable name="pan-azimuth" id="3905" flags="" value="0.27469135802469097"/>
+          <Controllable name="pan-azimuth" id="3905" flags="" value="0.27469134330749512"/>
           <Controllable name="pan-width" id="3909" flags="" value="0"/>
           <Controllable name="pan-elevation" id="3907" flags="" value="0"/>
           <Controllable name="pan-frontback" id="3911" flags="" value="0"/>
@@ -1223,7 +1225,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
         <Automation>
           <AutomationList automation-id="gain" id="4074" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="4075" flags="GainLike" value="1.0112004280090332"/>
+        <Controllable name="gaincontrol" id="4075" flags="GainLike" value="0.41818889975547791"/>
       </Processor>
       <Processor id="4103" name="meter-Audio" active="1" user-latency="0" type="meter"/>
       <Processor id="4104" name="Guit 1" active="1" user-latency="0" own-input="1" own-output="0" output="Guit 1" type="main-outs" role="Main">
@@ -1771,7 +1773,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Audio-7.51" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1250836" length="192436" position="2020582" beat="84" sync-position="865964" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="8438" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
+      <Region name="Audio-7.51" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1250836" length="192436" position="2020582" beat="84" sync-position="1250836" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="8438" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="8439" interpolation-style="Curved" state="Off">
@@ -1895,7 +1897,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Audio-7.44" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2304122" length="416570" position="2494030" beat="103.68227513227512" sync-position="2259138" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="7278" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
+      <Region name="Audio-7.44" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2304122" length="416570" position="2494030" beat="103.68227513227512" sync-position="2304122" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="7278" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="7279" interpolation-style="Curved" state="Off">
@@ -1926,7 +1928,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Audio-7.50" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2281024" length="437140" position="2906255" beat="120.81936885865457" sync-position="2213019" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="7879" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
+      <Region name="Audio-7.50" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2281024" length="437140" position="2906255" beat="120.81936885865457" sync-position="2281024" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="7879" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="7880" interpolation-style="Curved" state="Off">
@@ -2143,7 +2145,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Audio-7.36" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5502477" length="1052386" position="5875323" beat="244.25" sync-position="5292000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="6004" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
+      <Region name="Audio-7.36" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5502477" length="1052386" position="5875323" beat="244.25" sync-position="5502477" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="6004" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="6005" interpolation-style="Curved" state="Off">
@@ -2205,7 +2207,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Audio-7.40" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7624702" length="379449" position="8304242" beat="345.22547996976567" sync-position="7216364" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="6058" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
+      <Region name="Audio-7.40" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7624702" length="379449" position="8304242" beat="345.22547996976567" sync-position="7624702" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="2.549109935760498" id="6058" type="audio" first-edit="nothing" source-0="4272" source-1="4274" master-source-0="4272" master-source-1="4274" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="6059" interpolation-style="Curved" state="Off">
@@ -2318,7 +2320,7 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
       <Window name="session-options-editor" visible="0" x-off="0" y-off="335" x-size="1043" y-size="484"/>
       <Window name="speaker-config" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="about" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="940" y-size="565"/>
+      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="960" y-size="565"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="182" y-off="97" x-size="620" y-size="828"/>
       <Window name="audio-midi-setup" visible="0" x-off="524" y-off="292" x-size="872" y-size="496"/>
@@ -2334,9 +2336,9 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
       <Window name="RPM-162" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-1122" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-1183" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-4071" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-3886" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-3964" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-4071" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-54-85" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-54-84" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-54-1094" visible="0" x-off="259" y-off="0" x-size="847" y-size="404" custom-ui="1"/>
@@ -2373,12 +2375,24 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
       <Window name="PM-1213-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1215-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1216-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-4071-4102" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-4071-4101" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-4071-4103" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-4071-4104" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-4102-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-4101-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-4103-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-4104-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-3886-3917" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-3886-3916" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-3886-13764" visible="0" x-off="0" y-off="7" x-size="1020" y-size="468" custom-ui="1"/>
+      <Window name="P-3886-13712" visible="0" x-off="0" y-off="28" x-size="943" y-size="427" custom-ui="1"/>
       <Window name="P-3886-3918" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-3886-3919" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="PM-3917-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-3916-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-13764-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-13712-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-3918-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-3919-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-3964-3995" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -2391,18 +2405,6 @@ used yoshimi Chorused Flute in the reed and wind bank</Comment>
       <Window name="PM-4043-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-3996-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-3997-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-4071-4102" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-4071-4101" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-4071-4103" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-4071-4104" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-4102-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-4101-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-4103-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-4104-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-3886-13712" visible="0" x-off="0" y-off="28" x-size="943" y-size="427" custom-ui="1"/>
-      <Window name="PM-13712-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-3886-13764" visible="0" x-off="0" y-off="7" x-size="1020" y-size="468" custom-ui="1"/>
-      <Window name="PM-13764-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="66" visible="1"/>
         <Object id="automation 58" height="66" visible="0"/>
